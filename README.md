@@ -17,7 +17,7 @@ This application is a simple **3-tier rule engine** using **Node.js**. It determ
 
 ### 1. **Clone the repository**  
 \`\`\`bash
-git clone https://github.com/<your-username>/Application-1-Rule-Engine-with-AST.git
+git clone [https://github.com/ashirbadpanda/Application-1-Rule-Engine-with-AST]
 \`\`\`
 
 ### 2. **Navigate to the project directory**  
